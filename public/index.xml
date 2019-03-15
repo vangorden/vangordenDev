@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noah Van Gorden</title>
+    <link>https://www.vangorden.dev/</link>
+    <description>Recent content on Noah Van Gorden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://www.vangorden.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Noah</title>
+      <link>https://www.vangorden.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vangorden.dev/about/</guid>
+      <description>I&amp;rsquo;m passionate about finding creative solutions to tough problems, writing clean code, and building innovative tools for the world to enjoy. When I&amp;rsquo;m not busy utilizing my skill-set, I&amp;rsquo;m busy building upon it.
+While I&amp;rsquo;m very fortunate that my career and interests align, I&amp;rsquo;m also aware that all things need balance. So, when I&amp;rsquo;m away from &amp;ldquo;work&amp;rdquo;, I enjoy spending my time exploring new hiking trails, traveling the world, tending to my garden, and renovating my home.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.vangorden.dev/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vangorden.dev/contact/</guid>
+      <description>Connect with me at:
+ GitHub LinkedIn  Or email me at:   var userName = &#34;noah&#34;; var hostName = &#34;vangorden.dev&#34;; var linkText = userName + &#34;@&#34; + hostName ; document.write(&#34;&#34; + linkText + &#34;&#34;);  </description>
+    </item>
+    
+  </channel>
+</rss>

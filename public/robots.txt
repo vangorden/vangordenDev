@@ -1,0 +1,14 @@
+
+User-agent: *
+
+
+Disallow: /about/
+
+Disallow: /categories/
+
+Disallow: /contact/
+
+Disallow: /
+
+Disallow: /tags/
+
