@@ -7,6 +7,9 @@ languagecode = "en"
 defaultcontentlanguage = "en"
 enableRobotsTXT = true
 
+[blackfriday]
+    hrefTargetBlank = true
+
 paginate = 20
 canonifyurls = true
 
