@@ -6,7 +6,7 @@ slug = "contact"
 Connect with me at:
 
 * [GitHub](https://github.com/vangorden "My GitHub Profile Page")
-* [LinkedIn](www.linkedin.com/in/noahvangorden "My LinkedIn Profile Page")
+* [LinkedIn](https://www.linkedin.com/in/noahvangorden "My LinkedIn Profile Page")
 
 
 <p>Or email me at:
